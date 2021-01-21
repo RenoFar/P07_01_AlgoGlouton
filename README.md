@@ -11,7 +11,6 @@ L\'application possède  quelques contraintes : 
 ## Pré-requis:
 
 - Création d'un environnement virtuel
-- Pip : système de gestion de paquets utilisé pour installer et gérer des librairies écrites en Python
 - Utilisation d \'un terminal (interface en ligne de commande)
 
 ## Installation:
@@ -20,5 +19,3 @@ L\'application possède  quelques contraintes : 
 2. Créer un environnement virtuel dans votre dossier de travail contenant les fichiers téléchargés
 	- Utilisez la commande dans votre CLI `python -m venv <environment name>`  .
 	- Activer l'environnement: exécutez `source env/bin/activate`  (si vous êtes sous Windows, la commande sera `env/Scripts/activate.bat`  )
-	- Installer les paquets Python répertoriés dans le fichier `requirements.txt`
-		avec la commande `$ pip install -r requirements.txt`
